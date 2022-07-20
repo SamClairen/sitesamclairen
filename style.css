@@ -674,6 +674,12 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+    .bouton{
+        display: block;
+    }
+    .film2 {
+        margin-right: 0;
+    }
 }
 
 .film {
@@ -691,11 +697,12 @@ footer span a:hover{
     color: rgb(38, 0, 255);
     border: 2px solid grey!important;
     transition: all 0.3s ease;
-    margin-right: 8vw;
 }
 
 .bouton{
     display: flex;
+    display: block;
+    text-align: center;
 }
 
 .center {
