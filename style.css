@@ -683,8 +683,19 @@ footer span a:hover{
     color: rgb(38, 0, 255);
     border: 2px solid grey!important;
     transition: all 0.3s ease;
-    margin-left: 20vw!important;
+}
+.film2 {
+    text-align: center;
+    color: white!important;
+    background: black!important;
+    color: rgb(38, 0, 255);
+    border: 2px solid grey!important;
+    transition: all 0.3s ease;
+    margin-right: 8vw;
+}
 
+.bouton{
+    display: flex;
 }
 
 .center {
