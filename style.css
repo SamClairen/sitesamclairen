@@ -736,3 +736,8 @@ footer span a:hover{
     height: 15%!important;
     border: 10px, solid, black;
 }
+
+.no_style{
+    text-decoration: none;
+    color: black;
+}
